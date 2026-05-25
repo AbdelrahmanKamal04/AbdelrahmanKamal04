@@ -1,6 +1,6 @@
 # 👑 Welcome to Abdelrahman Mohamed Kamal Abdelaziz territory
 
-`Passionate Developer, AI & Machine Learning Engineer`
+**`Passionate Developer, AI & Machine Learning Engineer`**
 
 - 🔭 I'm currently working on **Graduation Project**
 
